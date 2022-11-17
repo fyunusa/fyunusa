@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I'm Umar Farouk Yunusa. A python developer.
+#### I Code 👨🏻‍💻
 
 <!--START_SECTION:waka-->
 
