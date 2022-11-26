@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Umar Farouk Yunusa. A python developer.
+### I'm Umar Farouk Yunusa.
 ## I Code 👨🏻‍💻
 
 
