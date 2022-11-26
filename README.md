@@ -28,7 +28,7 @@
 
 ### Socials
 
-![https://stackoverflow.com/users/12424696/fyunusa](https://aleen42.github.io/badges/src/stackoverflow.svg)
+![StackOverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 
