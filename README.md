@@ -36,14 +36,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 April 2022 - To: 05 April 2023
+From: 22 April 2022 - To: 06 April 2023
 
-Total Time: 844 hrs 46 mins
+Total Time: 848 hrs 52 mins
 
-PHP                408 hrs 28 mins >>>>>>>>>>>>-------------   48.35 %
-Python             216 hrs 21 mins >>>>>>-------------------   25.61 %
-JavaScript         88 hrs 34 mins  >>>----------------------   10.48 %
-Other              48 hrs 36 mins  >------------------------   05.75 %
+PHP                411 hrs 16 mins >>>>>>>>>>>>-------------   48.45 %
+Python             216 hrs 21 mins >>>>>>-------------------   25.49 %
+JavaScript         89 hrs 48 mins  >>>----------------------   10.58 %
+Other              48 hrs 36 mins  >------------------------   05.73 %
 ```
 
 <!--END_SECTION:waka-->
