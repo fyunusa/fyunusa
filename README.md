@@ -44,7 +44,7 @@
 
 
 <!--START_SECTION:waka-->
-📊 Development Breakdown
+## 📊 Development Breakdown
 ```txt
 From: 22 April 2022 - To: 07 July 2023
 
@@ -59,7 +59,7 @@ Total Time: 1,188 hrs 5 mins
 
 <!--END_SECTION:waka-->
 
-🔗 Additional Stats
+## 🔗 Additional Stats
 ------------------
 📜 Total PRs:     50
 ⭐ Total Stars:   250
