@@ -1,5 +1,4 @@
-### Hi there 👋
-### I'm Umar Farouk Yunusa.
+## Hi there 👋, I'm Umar Farouk Yunusa.
 ## I Code 👨🏻‍💻
 
 - 🔭 I’m currently working with REACT FLOW 
