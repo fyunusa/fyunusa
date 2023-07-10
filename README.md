@@ -43,17 +43,17 @@
 
 
 <!--START_SECTION:waka-->
-## 📊 Development Breakdown
+
 ```txt
-From: 22 April 2022 - To: 07 July 2023
+From: 22 April 2022 - To: 08 July 2023
 
-Total Time: 1,188 hrs 5 mins
+Total Time: 1,188 hrs 28 mins
 
-💻 PHP               609 hrs 53 mins >>>>>>>>>>>>>------------   51.33 %
-🐍 Python             232 hrs 53 mins >>>>>--------------------   19.60 %
-🌐 JavaScript         141 hrs 4 mins  >>>----------------------   11.87 %
-🔥 HTML               63 hrs 20 mins  >------------------------   05.33 %
-🎉 Other              49 hrs 12 mins  >------------------------   04.14 %
+PHP                609 hrs 53 mins >>>>>>>>>>>>>------------   51.32 %
+Python             232 hrs 53 mins >>>>>--------------------   19.60 %
+JavaScript         141 hrs 4 mins  >>>----------------------   11.87 %
+HTML               63 hrs 37 mins  >------------------------   05.35 %
+Other              49 hrs 12 mins  >------------------------   04.14 %
 ```
 
 <!--END_SECTION:waka-->
