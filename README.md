@@ -17,11 +17,12 @@
 ## AI Techniques and Models
 
 - 🔭 Currently working with:
-  - ![GPT-3.5](https://img.shields.io/badge/GPT--3.5-4B0082?style=for-the-badge&logo=ai&logoColor=white)
-  - ![GPT-4](https://img.shields.io/badge/GPT--4-4B0082?style=for-the-badge&logo=ai&logoColor=white)
-  - ![Gemini](https://img.shields.io/badge/Gemini-4B0082?style=for-the-badge&logo=ai&logoColor=white)
-  - ![BigScience](https://img.shields.io/badge/BigScience-4B0082?style=for-the-badge&logo=ai&logoColor=white)
-  - ![Orca2](https://img.shields.io/badge/Orca2-4B0082?style=for-the-badge&logo=ai&logoColor=white)
+  - [![GPT-3.5](https://img.shields.io/badge/GPT--3.5-4B0082?style=for-the-badge&logo=ai&logoColor=white)](https://openai.com/)
+  - [![GPT-4](https://img.shields.io/badge/GPT--4-4B0082?style=for-the-badge&logo=ai&logoColor=white)](https://openai.com/)
+  - [![Gemini](https://img.shields.io/badge/Gemini-00b6e6?style=for-the-badge&logo=ai&logoColor=white)](https://example.com/gemini)
+  - [![BigScience](https://img.shields.io/badge/BigScience-F9A620?style=for-the-badge&logo=ai&logoColor=white)](https://huggingface.co/bigscience/bloomz-7b1)
+  - [![Orca2](https://img.shields.io/badge/Orca2-F9A620?style=for-the-badge&logo=ai&logoColor=white)](https://huggingface.co/microsoft/Orca-2-7b)
+
 
 
 ### Languages
