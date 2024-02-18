@@ -47,6 +47,9 @@
 [![BigScience](https://img.shields.io/badge/BigScience-F9A620?style=for-the-badge&logo=ai&logoColor=white)](https://huggingface.co/bigscience/bloomz-7b1)
 [![Orca2](https://img.shields.io/badge/Orca2-F9A620?style=for-the-badge&logo=ai&logoColor=white)](https://huggingface.co/microsoft/Orca-2-7b)
 
+[![Canopy Pinecone](https://img.shields.io/badge/Canopy_Pinecone-2E8B57?style=for-the-badge&logo=database&logoColor=white)](https://www.pinecone.io/)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-7B68EE?style=for-the-badge&logo=database&logoColor=white)](https://www.trychroma.com/)
+
 
 ## Find me on
 
