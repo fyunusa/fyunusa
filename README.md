@@ -17,7 +17,7 @@
 ## AI Techniques and Models
 
 - 🔭 Currently working with:
-  - ![GPT-3.5](https://images.app.goo.gl/tjbqXBmoXXaGD1CF7?style=for-the-badge&logo=ai&logoColor=white)
+  - ![GPT-3.5](https://www.google.com/imgres?imgurl=https://chatgptaihub.com/wp-content/uploads/2023/06/ChatGPT-logo-with-color-Background.png&tbnid=4JHZRQB8hCK8iM&vet=1&imgrefurl=https://chatgptaihub.com/openai-chatgpt-logo/&docid=FIFOE9C7IyaoDM&w=1500&h=1500&source=sh/x/im/m1/1&kgs=963f8eea6bfbe6ce?style=for-the-badge&logo=ai&logoColor=white)
   - ![GPT-4](https://img.shields.io/badge/GPT--4-4B0082?style=for-the-badge&logo=ai&logoColor=white)
   - ![Gemini](https://img.shields.io/badge/Gemini-4B0082?style=for-the-badge&logo=ai&logoColor=white)
   - ![BigScience](https://img.shields.io/badge/BigScience-4B0082?style=for-the-badge&logo=ai&logoColor=white)
