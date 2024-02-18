@@ -1,9 +1,9 @@
 #### Hi there 👋, I'm Umar Farouk Yunusa.
 #### I Code 👨🏻‍💻
 
-- 🔭 I’m currently working with REACT FLOW 
-- 🌱 I’m currently learning REACT
-- 💬 Ask me about Software Development
+- 🔭 I’m currently working with GPT, GEMINI & other AI Models
+- 🌱 I’m currently building on AI Video Generation, Voice Generation & Other LLMs usage.
+- 💬 Ask me about Software Development & AI
 - 📫 How to reach me: fyunusa.tech@gmail.com
 - 😄 Pronouns: HE
 
