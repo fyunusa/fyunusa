@@ -2,10 +2,27 @@
 #### I Code 👨🏻‍💻
 
 - 🔭 I’m currently working with GPT, GEMINI & other AI Models
-- 🌱 I’m currently building on AI Video Generation, Voice Generation & Other LLMs usage.
-- 💬 Ask me about Software Development & AI
+- 🌱 Currently building on:
+  - AI Video Generation
+  - Voice Generation
+  - Leveraging Large Language Models (LLMs)
+
+- 💬 Ask me about:
+  - Software Development
+  - Artificial Intelligence
+    
 - 📫 How to reach me: fyunusa.tech@gmail.com
 - 😄 Pronouns: HE
+
+## AI Techniques and Models
+
+- 🔭 Currently working with:
+  - ![GPT-3.5](https://img.shields.io/badge/GPT--3.5-4B0082?style=for-the-badge&logo=ai&logoColor=white)
+  - ![GPT-4](https://img.shields.io/badge/GPT--4-4B0082?style=for-the-badge&logo=ai&logoColor=white)
+  - ![Gemini](https://img.shields.io/badge/Gemini-4B0082?style=for-the-badge&logo=ai&logoColor=white)
+  - ![BigScience](https://img.shields.io/badge/BigScience-4B0082?style=for-the-badge&logo=ai&logoColor=white)
+  - ![Orca2](https://img.shields.io/badge/Orca2-4B0082?style=for-the-badge&logo=ai&logoColor=white)
+
 
 ### Languages
 
