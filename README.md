@@ -17,7 +17,7 @@
 ## AI Techniques and Models
 
 - 🔭 Currently working with:
-  - ![GPT-3.5](https://img.shields.io/badge/GPT--3.5-4B0082?style=for-the-badge&logo=ai&logoColor=white)
+  - ![GPT-3.5](https://images.app.goo.gl/tjbqXBmoXXaGD1CF7?style=for-the-badge&logo=ai&logoColor=white)
   - ![GPT-4](https://img.shields.io/badge/GPT--4-4B0082?style=for-the-badge&logo=ai&logoColor=white)
   - ![Gemini](https://img.shields.io/badge/Gemini-4B0082?style=for-the-badge&logo=ai&logoColor=white)
   - ![BigScience](https://img.shields.io/badge/BigScience-4B0082?style=for-the-badge&logo=ai&logoColor=white)
